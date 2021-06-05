@@ -1,0 +1,8 @@
+.videofooter{
+  position: relative;
+  color: white;
+  bottom: 50px;
+}
+.videofooter p{
+  margin-left: 20px;
+}
