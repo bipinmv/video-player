@@ -1,7 +1,7 @@
 {
   "name": "video-clone",
   "version": "0.1.0",
-  "home": "http://bipinmv.github.io/video-player",
+  "homepage": "http://bipinmv.github.io/video-player",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
