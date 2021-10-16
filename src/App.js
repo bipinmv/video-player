@@ -6,7 +6,7 @@ import { BrowserRouter } from "react-router-dom"
 
 function App() {
   return (
-    <BrowserRouter basename="/video-player">
+    <BrowserRouter basename="/">
       <div className="App">
         <div className="video-container">
           {videoSource.map(obj => <Video url={obj.url} name={obj.name} />)}
